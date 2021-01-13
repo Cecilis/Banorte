@@ -1,0 +1,132 @@
+.fondo {
+    background-color: #5B245B;
+    color: white;
+}
+
+.fondo2 {
+    color: #5B245B;
+    background: url("../../Images/fondoBlanco.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.usuario {
+    width: 100%;
+    height: auto;
+}
+
+.titulo {
+    font-size: 5vmin;
+    text-transform: uppercase;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.row.center {
+   display: flexbox;
+   align-items: center;
+   height: 500px;
+   background-color:brown;
+}
+
+
+
+input[type=text] {
+    padding-left: 5%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    color: #5B245B;
+    font-family: "Arial";
+    text-transform: uppercase;
+    font-size: 2.5vmin;
+}
+
+input[type=password] {
+    padding-left: 5%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    color: #5B245B;
+    font-family: "Arial";
+    text-transform: uppercase;
+    font-size: 2.5vmin;
+}
+
+::-webkit-input-placeholder {
+    color: #5B245B;
+    opacity: 0.5;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+    color: #5B245B;
+    opacity: 0.5;
+}
+
+::-moz-placeholder { /* Firefox 19+ */
+    color: #5B245B;
+    opacity: 0.5;
+}
+
+:-ms-input-placeholder {
+    color: #5B245B;
+    opacity: 0.5;
+}
+
+.pie {
+    font-size: 2.5vmin;
+}
+
+
+/*Loader*/
+    #Background {
+        position: fixed;
+        top: 0px;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+        overflow: hidden;
+        padding: 0;
+        margin: 0;
+        background-color: #F0F0F0;
+        filter: alpha(opacity=80);
+        opacity: 0.8;
+        z-index: 100000;
+    }
+
+#Progress {
+    position: fixed;
+    top: 40%;
+    left: 40%;
+    height: 20%;
+    width: 20%;
+    /*top: 35%;
+    left: 25%;
+    height: 40%;
+    width: 50%;*/
+    z-index: 100001;
+    background-color: #FFFFFF;
+    border: 1px solid Gray;
+    background-image: url('../../Images/loading.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 4px;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    border: 1px solid #999;
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: 6px;
+    outline: 0;
+    -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+    box-shadow: 0 3px 9px rgba(0, 0, 0, .5);
+}
+
+
+@media (min-width: 768px) {
+    .usuarioTextTop {
+        padding-top: 2%;
+    }
+}

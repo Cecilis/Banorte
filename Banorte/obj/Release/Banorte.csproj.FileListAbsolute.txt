@@ -1,0 +1,1186 @@
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdv32.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TimbreFiscalDigital.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33_urls.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TimbreFiscalDigitalv11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Banorte.dll.config
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.jQuery.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\EntityFramework.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\log4net.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Microsoft.Web.Infrastructure.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Renci.SshNet.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\SAPConnectionManager.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\sapnco.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\sapnco_utils.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\WebGrease.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\EntityFramework.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\log4net.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\es\System.Web.Optimization.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\AcreditamientoIEPS10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ComercioExterior10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ine10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ComercioExterior11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ine11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catComExt.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_13_J\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.csprojResolveAssemblyReference.cache
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdv32.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TimbreFiscalDigital.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33_urls.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TimbreFiscalDigitalv11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\AcreditamientoIEPS10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ComercioExterior10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ine10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ComercioExterior11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ine11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catComExt.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Banorte.dll.config
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.jQuery.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\EntityFramework.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\log4net.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Microsoft.Web.Infrastructure.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Renci.SshNet.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\SAPConnectionManager.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\sapnco.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\sapnco_utils.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\WebGrease.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\EntityFramework.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\log4net.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\es\System.Web.Optimization.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_14\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.csprojResolveAssemblyReference.cache
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdv32.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TimbreFiscalDigital.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33_urls.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TimbreFiscalDigitalv11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\AcreditamientoIEPS10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ComercioExterior10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ine10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ComercioExterior11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ine11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catComExt.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Banorte.dll.config
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.jQuery.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\EntityFramework.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\log4net.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Microsoft.Web.Infrastructure.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Renci.SshNet.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\SAPConnectionManager.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\sapnco.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\sapnco_utils.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\WebGrease.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\EntityFramework.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\log4net.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\es\System.Web.Optimization.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_15\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.pdb
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdv32.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\terceros11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TimbreFiscalDigital.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33_urls.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\tdCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TimbreFiscalDigitalv11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\AcreditamientoIEPS10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\aerolineas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catNomina.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catPagos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\certificadodedestruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdiregistrofiscal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ComercioExterior10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\consumodecombustibles.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\detallista.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Divisas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\donat11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\iedu.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\implocal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ine10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\leyendasFisc.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina12.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\notariospublicos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\obrasarteantiguedades.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pagoenespecie.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Pagos10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pfic.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\renovacionysustitucionvehiculos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\servicioparcialconstruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\spei.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\tdCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TuristaPasajeroExtranjero.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\valesdedespensa.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\vehiculousado.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ventavehiculos11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\aerolineas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\certificadodedestruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdiregistrofiscal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ComercioExterior11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\consumodecombustibles.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\detallista.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Divisas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\donat11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ecc11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\iedu.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\implocal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ine11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\leyendasFisc.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\nomina12.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\notariospublicos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\obrasarteantiguedades.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pagoenespecie.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Pagos10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pfic.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\renovacionysustitucionvehiculos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\servicioparcialconstruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\spei.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\terceros11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TuristaPasajeroExtranjero.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\valesdedespensa.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\vehiculousado.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ventavehiculos11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catComExt.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catNomina.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catPagos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Banorte.dll.config
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Banorte.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Banorte.pdb
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\EntityFramework.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\log4net.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Renci.SshNet.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\SAPConnectionManager.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\sapnco.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\sapnco_utils.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\WebGrease.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.pdb
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\EntityFramework.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\log4net.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.csprojResolveAssemblyReference.cache
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdv32.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TimbreFiscalDigital.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33_urls.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TimbreFiscalDigitalv11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\AcreditamientoIEPS10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ComercioExterior10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ine10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ComercioExterior11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ine11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catComExt.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Banorte.dll.config
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.jQuery.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\EntityFramework.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\log4net.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Microsoft.Web.Infrastructure.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Renci.SshNet.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\SAPConnectionManager.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\sapnco.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\sapnco_utils.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\WebGrease.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\EntityFramework.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\log4net.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\es\System.Web.Optimization.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_18\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.pdb
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdv32.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\terceros11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TimbreFiscalDigital.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33_urls.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\tdCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TimbreFiscalDigitalv11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\AcreditamientoIEPS10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\aerolineas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catNomina.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catPagos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\certificadodedestruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdiregistrofiscal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ComercioExterior10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\consumodecombustibles.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\detallista.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Divisas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\donat11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\iedu.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\implocal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ine10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\leyendasFisc.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina12.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\notariospublicos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\obrasarteantiguedades.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pagoenespecie.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Pagos10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pfic.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\renovacionysustitucionvehiculos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\servicioparcialconstruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\spei.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\tdCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TuristaPasajeroExtranjero.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\valesdedespensa.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\vehiculousado.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ventavehiculos11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\aerolineas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\certificadodedestruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdiregistrofiscal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ComercioExterior11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\consumodecombustibles.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\detallista.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Divisas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\donat11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ecc11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\iedu.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\implocal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ine11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\leyendasFisc.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\nomina12.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\notariospublicos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\obrasarteantiguedades.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pagoenespecie.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Pagos10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pfic.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\renovacionysustitucionvehiculos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\servicioparcialconstruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\spei.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\terceros11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TuristaPasajeroExtranjero.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\valesdedespensa.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\vehiculousado.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ventavehiculos11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catComExt.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catNomina.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catPagos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Banorte.dll.config
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Banorte.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Banorte.pdb
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\EntityFramework.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\log4net.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Renci.SshNet.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\SAPConnectionManager.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\sapnco.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\sapnco_utils.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\WebGrease.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.pdb
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\EntityFramework.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\log4net.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.pdb
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_19\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.csprojResolveAssemblyReference.cache
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdv32.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TimbreFiscalDigital.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33_urls.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TimbreFiscalDigitalv11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\AcreditamientoIEPS10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ComercioExterior10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ine10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ComercioExterior11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ine11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catComExt.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Banorte.dll.config
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.jQuery.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\EntityFramework.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\log4net.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Microsoft.Web.Infrastructure.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Renci.SshNet.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\SAPConnectionManager.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\sapnco.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\sapnco_utils.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\WebGrease.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\EntityFramework.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\log4net.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\es\System.Web.Optimization.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.csprojResolveAssemblyReference.cache
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_24\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdv32.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TimbreFiscalDigital.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33_urls.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TimbreFiscalDigitalv11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\AcreditamientoIEPS10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ComercioExterior10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ine10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ComercioExterior11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ine11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catComExt.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Banorte.dll.config
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.jQuery.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\EntityFramework.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\log4net.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Microsoft.Web.Infrastructure.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Renci.SshNet.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\SAPConnectionManager.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\sapnco.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\sapnco_utils.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\WebGrease.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\EntityFramework.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\log4net.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\es\System.Web.Optimization.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_27\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.csprojResolveAssemblyReference.cache
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.csprojResolveAssemblyReference.cache
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdv32.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\terceros11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TimbreFiscalDigital.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33_urls.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\tdCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TimbreFiscalDigitalv11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\AcreditamientoIEPS10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\aerolineas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catNomina.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catPagos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\certificadodedestruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdiregistrofiscal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ComercioExterior10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\consumodecombustibles.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\detallista.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Divisas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\donat11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\iedu.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\implocal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ine10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\leyendasFisc.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina12.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\notariospublicos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\obrasarteantiguedades.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pagoenespecie.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Pagos10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pfic.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\renovacionysustitucionvehiculos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\servicioparcialconstruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\spei.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\tdCFDI.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TuristaPasajeroExtranjero.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\valesdedespensa.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\vehiculousado.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ventavehiculos11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\aerolineas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\certificadodedestruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdiregistrofiscal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ComercioExterior11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\consumodecombustibles.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\detallista.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Divisas.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\donat11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ecc11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\iedu.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\implocal.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ine11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\leyendasFisc.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\nomina12.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\notariospublicos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\obrasarteantiguedades.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pagoenespecie.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Pagos10.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pfic.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\renovacionysustitucionvehiculos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\servicioparcialconstruccion.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\spei.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\terceros11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TuristaPasajeroExtranjero.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\valesdedespensa.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\vehiculousado.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ventavehiculos11.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catComExt.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catNomina.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catPagos.xsd
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Banorte.dll.config
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Banorte.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Banorte.pdb
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\EntityFramework.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\log4net.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Renci.SshNet.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\SAPConnectionManager.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\sapnco.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\sapnco_utils.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\WebGrease.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.pdb
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\EntityFramework.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\log4net.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.xml
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\es\System.Web.Optimization.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\mauricio\Documents\Visual Studio 2013\Projects\Banorte_Solution_IIS_28\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdv32.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TimbreFiscalDigital.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33_urls.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TimbreFiscalDigitalv11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\AcreditamientoIEPS10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ComercioExterior10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ine10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ComercioExterior11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ine11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catComExt.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Banorte.dll.config
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.jQuery.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\EntityFramework.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\log4net.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Microsoft.Web.Infrastructure.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Renci.SshNet.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\SAPConnectionManager.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\sapnco.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\sapnco_utils.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\WebGrease.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\EntityFramework.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\log4net.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\es\System.Web.Optimization.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.csprojResolveAssemblyReference.cache
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_31\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdv32.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TimbreFiscalDigital.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33_urls.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdv33.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TimbreFiscalDigitalv11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\AcreditamientoIEPS10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ComercioExterior10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ine10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\tdCFDI.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v32\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\aerolineas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\certificadodedestruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\cfdiregistrofiscal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ComercioExterior11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\consumodecombustibles.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\detallista.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Divisas.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\donat11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ecc11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\iedu.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\implocal.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ine11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\leyendasFisc.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\nomina12.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\notariospublicos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\obrasarteantiguedades.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pagoenespecie.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\Pagos10.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\pfic.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\renovacionysustitucionvehiculos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\servicioparcialconstruccion.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\spei.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\terceros11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\TuristaPasajeroExtranjero.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\valesdedespensa.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\vehiculousado.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\ventavehiculos11.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catComExt.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catNomina.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Schemes\v33\catPagos.xsd
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Banorte.dll.config
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Banorte.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\AspNet.ScriptManager.jQuery.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\EntityFramework.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\log4net.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Microsoft.Web.Infrastructure.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Renci.SshNet.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\SAPConnectionManager.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\sapnco.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\sapnco_utils.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\WebGrease.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Antlr3.Runtime.pdb
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\EntityFramework.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\EntityFramework.SqlServer.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\log4net.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Newtonsoft.Json.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\System.Web.Optimization.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\System.Web.Providers.xml
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\es\System.Web.Optimization.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.csprojResolveAssemblyReference.cache
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.dll
+D:\Aplicaciones\Banorte\Banorte_Solution_IIS_32\Banorte_Solution_IIS\Banorte\obj\Release\Banorte.pdb
